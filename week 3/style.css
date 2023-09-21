@@ -1,0 +1,19 @@
+body{
+    background-color: paleturquoise;
+    color: navy;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    color: midnightblue;
+    text-shadow: orange;
+}
+h2{
+    color: slateblue;
+}
+h3{
+    color: midnightblue;
+}
+p{
+    font-size: larger;
+}
