@@ -1,0 +1,18 @@
+body{ /*happens to the whole body*/
+    background-color:maroon;
+    color:cadetblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{    /*happens to heading 1*/
+    color:burlywood;
+}
+h2{  /*happens to heading 2*/
+    color:khaki;
+}
+h3{  /*wprls fpr heading 3*/
+    color:honeydew;
+}
+p{     /*changes look of paragraphs*/
+    font-size: larger;
+}
