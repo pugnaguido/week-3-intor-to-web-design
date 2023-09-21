@@ -1,0 +1,19 @@
+body{ /*happens to the whole body*/
+    background-color: paleturquoise;
+    color: navy;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{    /*happens to heading 1*/
+    color: midnightblue;
+    /*text-shadow: orange;*/
+}
+h2{  /*happens to heading 2*/
+    color: slateblue;
+}
+h3{  /*wprls fpr heading 3*/
+    color: midnightblue;
+}
+p{     /*changes look of paragraphs*/
+    font-size: larger;
+}
